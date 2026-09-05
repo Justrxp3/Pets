@@ -1,3 +1,10 @@
+# 展示
+<img width="1172" height="797" alt="image" src="https://github.com/user-attachments/assets/a6f71551-6f48-4ac6-b2ea-c3fa15d307f1" />
+<img width="1257" height="781" alt="image" src="https://github.com/user-attachments/assets/77d39f2a-00b0-472c-8089-94437fa0c6ad" />
+
+
+
+
 # 桌面宠物 (Desktop Pet)
 
 一个可爱的 Windows 桌面宠物应用，支持自定义素材、奔跑动画、拖拽交互等功能。
