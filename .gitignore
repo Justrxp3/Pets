@@ -1,0 +1,22 @@
+# .NET 编译产物
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+
+# 发布产物
+publish/
+publish_tmp/
+publish.zip
+
+# Python
+__pycache__/
+*.pyc
+
+# Qoder
+.qoder/
+
+# 其他
+qqKJ/
